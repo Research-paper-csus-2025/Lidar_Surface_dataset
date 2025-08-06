@@ -20,15 +20,27 @@ This repository consists of LiDAR scan data from 15 different indoor surfaces, c
 
 ---
 
-## 3. Surface Materials Intensity
+## 3. Surface Materials Intensity (Point Count Per Material in the LiDAR Dataset)
 
-> (To be updated – replace this table with the actual one from the paper.)
-
-| Material          | Max Intensity | Mean Intensity | Specularity (dB) |
-|-------------------|---------------|----------------|------------------|
-| Sample Material 1 | ...           | ...            | ...              |
-| Sample Material 2 | ...           | ...            | ...              |
-| ...               | ...           | ...            | ...              |
+| **Material**           | **Number of Points** |
+|------------------------|----------------------|
+| Linoleum               | 5,189                |
+| Smooth wood            | 5,073                |
+| Silver plates          | 5,066                |
+| Rough wood             | 5,048                |
+| Drywall                | 5,032                |
+| Concrete wall          | 5,025                |
+| Cardboard              | 5,010                |
+| Projector screen       | 4,994                |
+| TV                     | 4,993                |
+| Fabric pinboard        | 4,984                |
+| Styrofoam              | 4,977                |
+| Corkboard              | 4,956                |
+| Whiteboard             | 4,940                |
+| Metal copper           | 4,896                |
+| Metal tin              | 4,780                |
+| Carpet                 | 3,193                |
+| **Total**              | **78,165**           |
 
 ---
 
